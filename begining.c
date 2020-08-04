@@ -1,6 +1,7 @@
 #include "head.h"
 
-void begining()//初始化用户见到的地图
+//初始化用户地图
+void begining()
 {
     int i,j;
 
